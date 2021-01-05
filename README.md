@@ -5,6 +5,8 @@ Sample change
 
 Sample change 2
 
+Sample change 3
+
 
 # MongoDB
 The application connects to the Mongo data base, so it should be configured with next parameters:
