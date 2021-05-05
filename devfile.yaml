@@ -2,12 +2,6 @@
 apiVersion: 1.0.0
 metadata:
   generateName: nodejs-mongo-test
-projects:
-  -
-    name: nodejs-mongodb-sample
-    source:
-      type: git
-      location: "https://github.com/sympatheticmoose/nodejs-mongodb-sample"
 components:
   -
     type: chePlugin
